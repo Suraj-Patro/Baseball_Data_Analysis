@@ -31,7 +31,7 @@ The dataset used in this project is from [Baseball Savant](https://baseballsavan
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/Baseball_Data_Analysis/blob/main/Baseball_Data_Analysis.ipynb)
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/Baseball_Data_Analysis/main?filepath=Baseball_Data_Analysis.ipynb)
 
-- *Executing [Baseball_Data_Analysis.py](https://raw.githubusercontent.com/Suraj-Patro/Baseball_Data_Analysis/main/Baseball_Data_Analysis.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/Baseball_Data_Analysis#packages-required) installed.*
+- *Executing [Baseball_Data_Analysis.py](https://raw.githubusercontent.com/Suraj-Patro/Baseball_Data_Analysis/main/baseball_data_analysis.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/Baseball_Data_Analysis#packages-required) installed.*
 
 # Packages Required
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
